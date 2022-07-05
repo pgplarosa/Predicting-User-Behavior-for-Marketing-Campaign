@@ -1,4 +1,4 @@
-# Predicting-User-Behavior-for-Marketing-Campaign
+# Predicting User Behavior for Marketing Campaign
 
 Machine Learning Individual Project by Patrick Guillano La Rosa - November 23, 2021. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/Predicting-User-Behavior-for-Marketing-Campaign/blob/main/md/FinalReport_LaRosaPatrick.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
 
